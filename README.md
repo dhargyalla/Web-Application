@@ -8,5 +8,6 @@ Additionally, it includes functionality for CSV manipulation, demonstrating the 
 
 ## Applications
 [1. Caffee finders webapp](https://github.com/dhargyalla/Coffee-and-wifi-webapp)
+
 [2. Virtual Book Shelf](https://github.com/dhargyalla/virtual-book-shelf)
 
