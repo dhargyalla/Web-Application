@@ -11,3 +11,5 @@ Additionally, it includes functionality for CSV manipulation, demonstrating the 
 
 [2. Virtual Book Shelf](https://github.com/dhargyalla/virtual-book-shelf)
 
+[3. Movie Finder](https://github.com/dhargyalla/movies-website/tree/master)
+
